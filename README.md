@@ -1,7 +1,7 @@
 Olá! Eu sou o Marcos Conde, estudante e amante da tecnologia
 
 - 🔭 Cursando Desenvolvimento de Sistemas no Senai Lauro de Freitas-Ba
-- ⚡ Atualmente estudando HTML5, CSS e linguagem C
+- ⚡ Atualmente estudando linguagem C e JavaScript
 
 
 <picture>
