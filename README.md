@@ -6,7 +6,7 @@ Olá! Eu sou o Marcos Conde, estudante e amante da tecnologia
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true&theme=black"
     media="(prefers-color-scheme: dark)"
   />
   <source
