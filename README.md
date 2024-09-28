@@ -1,17 +1,17 @@
 Olá! Eu sou o Marcos Conde, estudante e amante da tecnologia
 
 - 🔭 Cursando Desenvolvimento de Sistemas no Senai Lauro de Freitas-Ba
-- ⚡ Atualmente estudando linguagem C e JavaScript
+- ⚡ Atualmente estou me capacitando em PHP e MySql
 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true&theme=black"
+    srcset="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true"
-    media="(prefers-color-scheme: black ), (prefers-color-scheme: black)"
+    media="(prefers-color-scheme: dark ), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosCondeJr&show_icons=true" />
 </picture>
