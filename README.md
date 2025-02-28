@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marcos Conde Jr
+# Marcos Conde Jr
 
 **`Software Developer`**
 
