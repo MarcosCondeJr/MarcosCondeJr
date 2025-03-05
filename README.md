@@ -16,7 +16,7 @@ Hello, me chamo Marcos Conde, tenho 18 anos e sou um entusiasta da tecnologia. A
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
