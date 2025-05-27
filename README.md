@@ -121,11 +121,3 @@ Hello, me chamo Marcos Conde, tenho 18 anos e sou um entusiasta da tecnologia. A
   />
 
 </p>
-
-<p>
-This is a small message from a guy that found his github profile still loged on one of the SENAI's.
-I am logging off his account from this PC but i leaving this small message as a easteregg.
-Ass: <a href="https://github.com/TauaRibeiro">Tauã Ribeiro</a>
-</p>
-<br/>
-<p>PS: Please, always remember to logoff your accounts from machines that is not yours, because the chances of someone just putting a harmless message like this is low.</p>
