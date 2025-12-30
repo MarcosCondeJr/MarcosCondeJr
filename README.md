@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Hello, me chamo Marcos Conde, tenho 18 anos e sou um entusiasta da tecnologia. Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI. Sou movido por desafios e tenho grande interesse em explorar novas tecnologias e linguagens. Minha abordagem é sempre proativa, buscando aprendizado contínuo para me tornar um desenvolvedor cada vez melhor.
+Hello, me chamo Marcos Conde, tenho 19 anos e sou um entusiasta da tecnologia. Sou formado em Desenvolvimento de Sistemas no SENAI, movido por desafios e tenho grande interesse em explorar novas tecnologias e linguagens. Minha abordagem é sempre proativa, buscando aprendizado contínuo para me tornar um desenvolvedor cada vez melhor.
 
 <p align="left">
     <a 
