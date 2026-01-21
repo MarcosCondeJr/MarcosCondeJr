@@ -37,6 +37,8 @@ Motivado por desafios, boas práticas e aprendizado contínuo.
     </a>
 </p>
 
+<br/>
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
@@ -50,7 +52,6 @@ Motivado por desafios, boas práticas e aprendizado contínuo.
     </a>
 </p>
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
