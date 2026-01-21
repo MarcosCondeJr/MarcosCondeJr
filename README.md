@@ -4,11 +4,16 @@
 
 <!-- <img src="https://img.shields.io/static/v1?label=Overview&message=MARCOSCONDEJR&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub"> -->
 
-Desenvolvedor de software formado em Desenvolvimento de Sistemas pelo SENAI.
-Atualmente focado em backend com Java, construindo APIs e aplicações web modernas.
-Motivado por desafios, boas práticas e aprendizado contínuo.
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  alt="ilustração de um computador"
+  width="250px"
+  align="right"
+/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+Desenvolvedor de software formado em Desenvolvimento de Sistemas pelo SENAI.  
+Atualmente focado em backend com Java, construindo APIs e aplicações web modernas.  
+Motivado por desafios, boas práticas e aprendizado contínuo.
 
 <p align="left">
     <a href="mailto:marcos14conde@hotmail.com" title="Outlook">
